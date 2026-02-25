@@ -29,7 +29,6 @@ NLP-Transformers/
 ├── bert/
 │   ├── Semantic Search
 │   ├── text-classification/
-│   ├── fine-tuning/
 │   ├── ner/
 │   └── question-answering/
 │
